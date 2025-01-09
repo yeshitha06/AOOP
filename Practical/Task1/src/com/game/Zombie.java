@@ -6,3 +6,4 @@ public class Zombie implements Enemy {
         System.out.println("Zombie lunges forward!");
     }
 }
+

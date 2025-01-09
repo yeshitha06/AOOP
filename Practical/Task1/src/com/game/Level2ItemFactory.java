@@ -1,6 +1,5 @@
 package com.game;
 
-
 public class Level2ItemFactory implements GameItemFactory {
     @Override
     public Weapon createWeapon() {

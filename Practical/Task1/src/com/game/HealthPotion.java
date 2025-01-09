@@ -6,3 +6,4 @@ public class HealthPotion implements PowerUp {
         System.out.println("Health restored!");
     }
 }
+

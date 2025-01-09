@@ -6,4 +6,3 @@ public class Dragon implements Enemy {
         System.out.println("Dragon breathes fire!");
     }
 }
-

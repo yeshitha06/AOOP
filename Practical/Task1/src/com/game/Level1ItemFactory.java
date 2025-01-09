@@ -11,4 +11,3 @@ public class Level1ItemFactory implements GameItemFactory {
         return new HealthPotion();
     }
 }
-
